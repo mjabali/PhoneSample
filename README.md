@@ -1,5 +1,5 @@
-##Oracle MAF Dial Phone Number Demo
-===================================
+##Oracle MAF Dial Phone Demo
+============================
 
 ###Goal:
 The goal of this demo code is to show you how to setup an Oracle Mobile Application Framework app to dial phone numbers within the app.
